@@ -4,7 +4,7 @@ First Project
 Gudang PT. PJS - Inventory Management System
 A comprehensive backend application for managing warehouse inventory at PT Panca Jaya Stevedoring.
 
-📖 Overview
+Overview
 This project is designed to streamline inventory management processes for PT Panca Jaya Stevedoring, a company specializing in ship loading and unloading. By transitioning from manual records to a digital system, the application addresses challenges such as high transaction volumes and inefficiencies in manual tracking.
 
 Key Features
