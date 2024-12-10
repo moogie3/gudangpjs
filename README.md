@@ -1,21 +1,20 @@
 First Project 
 
-Program Gudang PJS (Panca Jaya Stevedoring)
+**Program Gudang PJS (Panca Jaya Stevedoring)**
 
-Gudang PT. PJS - Inventory Management System
+**Gudang PT. PJS - Inventory Management System**
 A comprehensive backend application for managing warehouse inventory at PT Panca Jaya Stevedoring.
 
-Overview
+**Overview**
 This project is designed to streamline inventory management processes for PT Panca Jaya Stevedoring, a company specializing in ship loading and unloading. By transitioning from manual records to a digital system, the application addresses challenges such as high transaction volumes and inefficiencies in manual tracking.
 
-Key Features
+**Key Features**
 Simplified transaction recording for large inventory volumes.
 Optimized workflows for warehouse management.
 Built using native PHP for flexibility.
 Relational database management with MySQL.
 
-Menu Sidebar:
-
+**Menu Sidebar:**
 1. Notes
 A space to record important notes or memos related to warehouse operations.
 Example: Record urgent tasks or reminders for warehouse staff.
@@ -42,7 +41,7 @@ ui -> ui untuk login
 assets -> asset tambahan untuk folder ui
 
 
-🚀 Getting Started
+**🚀 Getting Started**
 Prerequisites
 PHP: Version 7.4 or higher.
 MySQL: Version 5.7 or higher.
@@ -51,8 +50,8 @@ Composer (optional, if dependencies are managed).
 
 Installation
 1. Clone the Repository
-git clone https://github.com/moogie3/gudangpjs.git
-cd gudangpjs
+   - git clone https://github.com/moogie3/gudangpjs.git
+   - cd gudangpjs
 
 2. Database Setup
 Configure database credentials in the dbconnect.php file.
@@ -63,7 +62,7 @@ Start your local server (e.g., Apache or Nginx [XAMPP]).
 Open your browser and navigate to http://localhost/gudangpjs.
 
 
-📊 Usage
+**📊 Usage**
 Key Functionalities
 1. Manage Inventory
    - Add and view inventory items directly from the dashboard.
@@ -77,7 +76,7 @@ Key Functionalities
    - Easily access critical features using the intuitive sidebar menu.
 
 
-🤝 Contributing
+**🤝 Contributing**
 We welcome contributions! Follow these steps to contribute:
 
 Fork the repository.
@@ -87,10 +86,10 @@ Push to the branch: git push origin feature-name.
 Open a pull request.
 Please ensure your code adheres to the existing coding standards and includes relevant documentation.
 
-🛡️ License
+**🛡️ License**
 This project is licensed under the MIT License.
 
-📧 Contact
+**📧 Contact**
 For questions or feedback, please contact:
 
 Author: Moogie3
