@@ -63,6 +63,7 @@ Start your local server (e.g., Apache or Nginx [XAMPP]).
 Open your browser and navigate to http://localhost/gudangpjs.
 
 
+
 **📊 Usage**
 
 Key Functionalities
@@ -78,13 +79,18 @@ Key Functionalities
    - Easily access critical features using the intuitive sidebar menu.
 
 
+
 **🤝 Contributing**
 
 We welcome contributions! 
 
+
+
 **🛡️ License**
 
 This project is licensed under the MIT License.
+
+
 
 **📧 Contact**
 
