@@ -42,6 +42,7 @@ assets -> asset tambahan untuk folder ui
 
 
 **🚀 Getting Started**
+
 Prerequisites
 PHP: Version 7.4 or higher.
 MySQL: Version 5.7 or higher.
@@ -63,6 +64,7 @@ Open your browser and navigate to http://localhost/gudangpjs.
 
 
 **📊 Usage**
+
 Key Functionalities
 1. Manage Inventory
    - Add and view inventory items directly from the dashboard.
@@ -77,19 +79,15 @@ Key Functionalities
 
 
 **🤝 Contributing**
-We welcome contributions! Follow these steps to contribute:
 
-Fork the repository.
-Create a feature branch: git checkout -b feature-name.
-Commit your changes: git commit -m "Add new feature".
-Push to the branch: git push origin feature-name.
-Open a pull request.
-Please ensure your code adheres to the existing coding standards and includes relevant documentation.
+We welcome contributions! 
 
 **🛡️ License**
+
 This project is licensed under the MIT License.
 
 **📧 Contact**
+
 For questions or feedback, please contact:
 
 Author: Moogie3
